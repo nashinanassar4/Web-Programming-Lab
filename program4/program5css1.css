@@ -1,0 +1,12 @@
+table{
+background-color: orange;
+color: black;
+border-color: black;
+}
+th, td {
+border: 1px solid brown;
+padding:8px;
+}
+
+
+
